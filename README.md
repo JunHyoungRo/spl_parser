@@ -1,8 +1,7 @@
 # spl_parser
 SimpleProgrammingLanguage RD-parser for assignment
 
-'id' = (l+_)(l+d+_)*
-
+'id' = (l+\_)(l+d+_)*  
 'number' = d*
 
 ## SPL Grammar
